@@ -1,0 +1,28 @@
+1. Navigate to https://www.douglas.de/de
+2. Handle the cookie consent.
+3. Click on "Parfum"
+4. List the products based on filters.
+(click 'Produktart'  -> select filter 'parfume' -> search btn validate)
+
+
+
+
+1. Navigate to https://www.douglas.de/de
+2. Handle the cookie consent.
+3. Click on "Parfum"
+4. List the products based on filters.
+(click 'Produktart'  -> select filter 'parfume' -> search btn validate)
+remove filter validate all product visible
+
+
+
+1. Navigate to https://www.douglas.de/de
+2. Handle the cookie consent.
+3. Click on "Parfum"
+click demandufy
+4 click product type 'deodorants'
+5.select filter 'marke' select brand 'CALVIN KLEIN' 
+6.Validate filter product only present
+
+
+

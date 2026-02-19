@@ -1,0 +1,17 @@
+[
+    {
+        "testCase": "Filter by Highlights - Sale",
+        "filterCategory": "Highlights",
+        "filterValue": "Sale"
+    },
+    {
+        "testCase": "Filter by Highlights - NEU",
+        "filterCategory": "Highlights",
+        "filterValue": "NEU"
+    },
+    {
+        "testCase": "Filter by Highlights - Limitiert",
+        "filterCategory": "Highlights",
+        "filterValue": "Limitiert"
+    }
+]

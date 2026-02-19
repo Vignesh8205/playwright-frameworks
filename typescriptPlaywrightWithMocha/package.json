@@ -1,0 +1,25 @@
+{
+  "name": "ai-driven-slot-booking-test-framework",
+  "version": "2.0.0",
+  "scripts": {
+    "test:ui:dev": "cross-env ENV=dev npx playwright test tests/ui",
+    "test:ui:qa": "cross-env ENV=qa npx playwright test tests/ui",
+    "test:api:dev": "cross-env ENV=dev npx playwright test tests/api",
+    "test:api:qa": "cross-env ENV=qa npx playwright test tests/api",
+    "test:all:dev": "cross-env ENV=dev npx playwright test",
+    "test:all:qa": "cross-env ENV=qa npx playwright test",
+    "test:data-driven": "npx playwright test tests/ui/data-driven.spec.ts",
+    "generate:test-data": "node scripts/generate-test-data.js",
+    "validate:test-data": "node -e \"const {DataUtils} = require('./utils/index'); console.log(DataUtils.validateTestDataFiles());\""
+  },
+  "dependencies": {
+    "@playwright/test": "^1.49.0",
+    "typescript": "^5.6.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "@types/xlsx": "^0.0.35",
+    "cross-env": "^7.0.3"
+  }
+}

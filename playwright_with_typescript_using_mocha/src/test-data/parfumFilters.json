@@ -1,0 +1,16 @@
+[
+    {
+        "scenario": "Parfum Filter",
+        "category": "Parfum",
+        "filterType": "Produktart",
+        "filterValue": "Parfum"
+    },
+    {
+        "scenario": "Brand Filter",
+        "category": "Parfum",
+        "subCategory": "Damendüfte",
+        "productType": "Deodorants",
+        "filterType": "Marke",
+        "brandValue": "CALVIN KLEIN"
+    }
+]

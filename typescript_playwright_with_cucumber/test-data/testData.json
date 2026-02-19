@@ -1,0 +1,50 @@
+{
+   "dashboardPage":{
+      "pageTitle":"Dashboard"
+   },
+   "booking": {
+      "pickup": {
+         "location": "Rathinam College",
+         "fullName": "Rathinam College Of Arts And Science, Pollachi Main Road, Kpm Nagar, Eachanari, Tamil Nadu"
+      },
+      "drop": {
+         "partialText": "GA",
+         "suggestionIndex": 1,
+         "expectedName": "Gameistry Entertainment"
+      },
+      "date": {
+         "daysFromToday": 3
+      },
+      "contact": {
+         "name": "John Doe",
+         "mobile": "9876543210",
+         "email": "john.doe@example.com",
+         "pickupAddress": "Rathinam College Main Gate",
+         "pickupTime": "10:00 AM"
+      }
+   },
+   "footer": {
+      "links": [
+         {
+            "name": "Notices",
+            "url": "#",
+            "heading": null
+         },
+         {
+            "name": "Terms & Conditions",
+            "url": "/Pages/terms",
+            "heading": "Terms & Conditions"
+         },
+         {
+            "name": "Privacy Policy",
+            "url": "/Pages/privacy",
+            "heading": "Privacy Policy"
+         },
+         {
+            "name": "Contact Us",
+            "url": "/Pages/contact",
+            "heading": "Contact us"
+         }
+      ]
+   }
+}
