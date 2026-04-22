@@ -1,0 +1,42 @@
+{
+    "credentials": {
+        "validUser": {
+            "username": "qaautomation@itccompliance.co.uk",
+            "password": "fjdf433D!asfgfG!"
+        },
+        "invalidUser": {
+            "username": "invalid@example.com",
+            "password": "WrongPassword"
+        },
+        "trainingUser": {
+            "username": "HPFUGHDN",
+            "password": "London123@"
+        }
+    },
+    "pages": {
+        "login": {
+            "title": "Welcome to ITC"
+        },
+        "dashboard": {
+            "name": "Dashboard",
+            "title": "Dashboard",
+            "knowledgeCheckTitle": " Consumer Duty Knowledge Checks "
+        },
+        "entityPage": {
+            "createEntity": {
+                "entityName": "Test Automation Legal Entity",
+                "address": "e12 6hn",
+                "marketType": "Motor",
+                "type": "Consumer Credit",
+                "representative": "AR"
+            },
+            "companyDetails": {
+                "vatNumber": "VAT123456",
+                "frnNumber": "FRN789012",
+                "companyNumber": "CO345678",
+                "telephone": "01234567890",
+                "website": "https://www.example.com"
+            }
+        }
+    }
+}
